@@ -1,9 +1,9 @@
-# 🏗️ High Fantasy Literature Data Analysis: Cloud Scale Edition
+# High Fantasy Literature Data Analysis: Cloud Scale Edition
 
 # high-fantasy-data-analysis
 Scaled analysis of gendered sentiment in fantasy literature using Google Cloud Platform (BigQuery + Colab). Processes 2M+ Goodreads reviews with optimized SQL queries and automated pipelines. Demonstrates cloud-based data engineering.
 
-## 📌 Overview  
+## Overview  
 Expanding my original [NLP analysis of 1.1M reviews](fantasy-lit-sent-an) using **Google Cloud Platform**. 
 
 This project demonstrates:  
