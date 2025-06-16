@@ -1,6 +1,5 @@
 # High Fantasy Literature Data Analysis: Cloud Scale Edition
 
-# high-fantasy-data-analysis
 Scaled analysis of gendered sentiment in fantasy literature using Google Cloud Platform (BigQuery + Colab). Processes 2M+ Goodreads reviews with optimized SQL queries and automated pipelines. Demonstrates cloud-based data engineering.
 
 ## Overview  
@@ -11,6 +10,7 @@ This project demonstrates:
 - **Automated workflows** between Colab ↔ GCP  
 - **Cost-optimized queries** (partitioned tables, cached results)  
 - **Deeper insights** into gendered bias across subgenres  
+- Raw review data stored in Cloud Storage → Processed in BigQuery  
 
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]([your_colab_link](https://colab.research.google.com/github/ranwiththecode/high-fantasy-data-analysis/blob/main/mining_current.ipynb))  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
