@@ -1,4 +1,4 @@
-#UPDATE - 08/2025
+# UPDATE - 08/2025
 Project undergoing major revision; updates will be added as necessary
 
 # High Fantasy Literature Data Analysis: Cloud Scale Edition
